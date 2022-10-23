@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/node16/tsconfig.json",
+  "compilerOptions": {
+
+    /* Emit */
+    "sourceMap": true,
+    "outDir": "./dist",
+  },
+  "include": [ "src" ],
+}
